@@ -1,9 +1,7 @@
 #  LightWeight Transformer For Image Captioning
 This repository contains the  code of official Transformer and lightweight Transformer.
 
-We have re-implemented the Transformer and optimized the codes so that its performance is much higher than all of existing IC repositorys.
-
-This  codes are based on  repository of meshed memory transformer.
+This  codes are based on  repository of meshed memory transformer, we appreciate their contributions.
 
 To perpare datas, please refer to [here](https://github.com/aimagelab/meshed-memory-transformer) 
 
