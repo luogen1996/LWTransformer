@@ -1,7 +1,7 @@
 #  LightWeight Transformer For Image Captioning
 This repository contains the  code of official Transformer and lightweight Transformer.
 
-This project is based on the high-quality codes of M2 Transformer [Arixv](https://arxiv.org/abs/1912.08226). [Project](https://github.com/aimagelab/meshed-memory-transformer).
+This project is based on the high-quality codes of M2 Transformer [[Arixv]](https://arxiv.org/abs/1912.08226), [[Project]](https://github.com/aimagelab/meshed-memory-transformer), we appreciate their solid work.
 
 To perpare datas, please refer to [here](https://github.com/aimagelab/meshed-memory-transformer) 
 
