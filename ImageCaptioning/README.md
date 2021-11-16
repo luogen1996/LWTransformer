@@ -1,7 +1,7 @@
 #  LightWeight Transformer For Image Captioning
 This repository contains the  code of official Transformer and lightweight Transformer.
 
-This project is based on the high-quality codes of M2 Transformer [[Arixv]](https://arxiv.org/abs/1912.08226), [[Project]](https://github.com/aimagelab/meshed-memory-transformer), we appreciate their solid work.
+This project is based on the high-quality codes of M2 Transformer [[Arixv]](https://arxiv.org/abs/1912.08226), [[Project]](https://github.com/aimagelab/meshed-memory-transformer).
 
 To perpare datas, please refer to [here](https://github.com/aimagelab/meshed-memory-transformer) 
 
@@ -39,3 +39,5 @@ For example, to train our model with the parameters used in our experiments, use
 ```
 python train.py --exp_name m2_transformer --batch_size 64  --LFFN  --head 8 --warmup 10000 --features_path /path/to/features --annotation_folder /path/to/annotations
 ```
+## Acknowledgement
+meshed-memory-transformer [[Project]](https://github.com/aimagelab/meshed-memory-transformer)
